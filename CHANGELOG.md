@@ -6,6 +6,12 @@ Formato basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.1.0/) y
 
 ## [Sin publicar]
 
+## [1.0.1] - 2026-10-05
+### Corregido
+- Inclusión exacta del límite de Q100 en el tramo 1 de comisiones.
+- Aplicación del tope máximo de Q25.00 para comisiones altas.
+- Operación aritmética corregida para sumar la comisión al calcular el total.
+
 ## [1.0.0]
 ### Agregado
 - Cálculo de la comisión de transferencias (`calcular_comision`).
